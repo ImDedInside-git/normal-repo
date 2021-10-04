@@ -39,6 +39,10 @@ chmod u+x kali_steam.sh
 - [x] Masteroduo#6440
 - [x] Hi10.#6144
 
+###
+
+[Discord server](https://discord.gg/fNpnhukuzn)
+
 ### Images
 
 ![](https://cdn.discordapp.com/attachments/894518604320604180/894518637703073792/unknown.png)
