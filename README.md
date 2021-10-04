@@ -10,8 +10,9 @@
 
 ### Dependencies
 
-ascii-image-converter (snap *yes ik cringe asf*)
-bash
+- ascii-image-converter (snap *yes ik cringe asf*)
+- bash
+- python3
 
 ### How to run
 
