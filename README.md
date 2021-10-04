@@ -4,6 +4,7 @@
 
 - [x] Upload base code to github
 - [x] Find shitty images of Darrin
+- [x] Create fake Prada on discord 
 - [ ] Find personal information about Darrin
 - [ ] Improve code
 - [ ] Prenk Darrin
