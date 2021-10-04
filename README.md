@@ -3,7 +3,7 @@
 git clone https://github.com/ImDedInside-git/heck.git
 ```
 ```
-cd hecks
+cd heck
 ```
 ```
 chmod u+x kali_steam.sh
