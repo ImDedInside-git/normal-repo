@@ -1,5 +1,13 @@
 # hecks
-
-git clone __.git
+```
+git clone https://github.com/ImDedInside-git/heck.git
+```
+```
 cd hecks
-./kali_steam.sh
+```
+```
+chmod u+x kali_steam.sh
+```
+```
+./kali_steam.sh 
+```
